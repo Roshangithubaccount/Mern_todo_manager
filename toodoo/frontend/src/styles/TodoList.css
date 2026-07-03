@@ -1,0 +1,20 @@
+.todo-list{
+    margin-top:30px;
+}
+
+.empty{
+    background:#ffffff;
+    padding:50px 25px;
+    border-radius:16px;
+    text-align:center;
+    box-shadow:0 8px 20px rgba(0,0,0,.08);
+}
+
+.empty h2{
+    margin-bottom:12px;
+    color:#2563eb;
+}
+
+.empty p{
+    color:#6b7280;
+}
